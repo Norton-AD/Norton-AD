@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Norton-AD
+- 👀 I’m interested in cloud solutions and all things Terraform. 
+- 🌱 I’m currently learning all the basics of Terraform and I am looking for cloud enthusiasts to share ideas and colaborate in projects.
+- 💞️ I’m looking to collaborate on simple solutions and newbie friendly projects that I can get some experience in cloud designing.
+- 📫 How to reach me: tales.uk@gmail.com
+- ⚡ Fun fact: My first computer ran on Windows 3.11 and solitaire was the best / only game it could run. 
